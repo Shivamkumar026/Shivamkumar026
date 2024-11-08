@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and Cyber Security
 - 🌱 I’m currently learning React.js and CyberSecurity
 - 💞️ I’m looking to collaborate on: Any Open Source Project involving Web Development!! 
-- 📫 How to reach me: You can reach me at shivamkr0801@gmail.com or 9027816228 
+- 📫 How to reach me: You can reach me at shivamkr0801@gmail.com or https://www.linkedin.com/in/shivamkumar026
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My love life is good brand t-shirts and I wear them almost everyday!! 
 
